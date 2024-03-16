@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rooms",
+    "icons": "src/assets/icons/bed.png"
+  },
+  {
+    "name": "Country",
+    "icons": "src/assets/icons/village.png"
+  },
+  {
+    "name": "Beach",
+    "icons": "src/assets/icons/beach.png"
+  },
+  {
+    "name": "Castles",
+    "icons": "src/assets/icons/castle.png"
+  },
+  {
+    "name": "Amazing",
+    "icons": "src/assets/icons/view.png"
+  },
+  {
+    "name": "Rooms",
+    "icons": "src/assets/icons/container.png"
+  },
+  {
+    "name": "Rooms",
+    "icons": "src/assets/icons/frames.png"
+  }
+]
